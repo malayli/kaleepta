@@ -1,3 +1,3 @@
-const char *oldman1;
-const char *musician1;
-const char *nothingtosay;
+extern const char *oldman1;
+extern const char *musician1;
+extern const char *nothingtosay;
