@@ -2,7 +2,7 @@
 
 Delve into a text-based adventure right from your terminal with "Kaleepta", a game developed in the C language.
 
-<img src="preview.png" alt="Kaleepta" width="300px">
+<img src="preview.png" alt="Kaleepta" style="width:50vw;">
 
 ## Requirements
 
