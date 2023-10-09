@@ -1,0 +1,2 @@
+void initShop();
+void showShop();

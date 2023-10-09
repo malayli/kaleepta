@@ -1,0 +1,2 @@
+void initBusinessWoman();
+void showBusinessWoman();

@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "graphics.h": "c",
+        "continue.h": "c",
+        "__tuple": "c",
+        "array": "c",
+        "__locale": "c",
+        "__string": "c",
+        "string": "c",
+        "string_view": "c",
+        "sstream": "c",
+        "utils.h": "c",
+        "secretplace.h": "c",
+        "choice.h": "c",
+        "businesswoman.h": "c",
+        "data.h": "c",
+        "home.h": "c",
+        "oldman.h": "c"
+    }
+}

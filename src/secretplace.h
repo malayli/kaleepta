@@ -1,0 +1,2 @@
+void initSecretPlace();
+void showSecretPlace();

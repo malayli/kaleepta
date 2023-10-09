@@ -1,0 +1,2 @@
+void initHome();
+void showHome();

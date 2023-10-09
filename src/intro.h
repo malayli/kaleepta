@@ -1,0 +1,2 @@
+void initIntro();
+void showIntro();
